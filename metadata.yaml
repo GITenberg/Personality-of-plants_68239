@@ -1,5 +1,8 @@
 _repo: Personality-of-plants_68239
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68239-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Fitch, Franklyn E.
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8918
     wikipedia: https://en.wikipedia.org/wiki/Royal_Dixon
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68239#Personality-of-plants
 gutenberg_issued: '2022-06-05'
 identifiers:
   gutenberg: '68239'
